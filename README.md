@@ -4,3 +4,6 @@
 <h3 >A passionate APP Developer from India</h3>
 <h3 >Manager of GeeksForGeeks VITAP-STUDENT CHAPTER</h3>
 <h3 >Building AppENexus </h3>
+
+![Profile Views](https://komarev.com/ghpvc/?username=CharanBot)
+<a href="https://github.com/CharanBot?tab=followers"><img src="https://img.shields.io/github/followers/CharanBot?label=Followers&style=social" alt="GitHub Badge"></a>
