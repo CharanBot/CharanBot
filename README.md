@@ -28,3 +28,8 @@
   </a>
 </p>
 <hr>
+<h2>Charan's Contribution Graph<h2>
+<p align="center">
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=CharanBot" />
+<br>
+<p>
