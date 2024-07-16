@@ -28,6 +28,21 @@
   </a>
 </p>
 <hr>
+<br>
+  <a href="https://quine.sh?utm_source=widgets&utm_campaign=CharanBot">
+    <img width="400" src="https://stats.quine.sh/CharanBot/languages-over-time?theme=dark" />
+  </a>
+  <a href="https://quine.sh?utm_source=widgets&utm_campaign=CharanBot">
+    <img width="400" src="https://stats.quine.sh/CharanBot/topics-over-time?theme=dark" />
+  </a>
+  <a href="https://quine.sh?utm_source=widgets&utm_campaign=CharanBot">
+    <img width="400" src="https://stats.quine.sh/CharanBot/github?theme=dark" /> 
+  </a>
+  <a href = "https://quine.sh?utm_source=widgets&utm_campaign=CharanBot" >
+    <img width = "400" src="https://stats.quine.sh/CharanBot/dependencies?theme=dark" />
+  </a>
+</p>
+<hr>
 <h2>Charan's Contribution Graph<h2>
 <p align="center">
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=CharanBot" />
