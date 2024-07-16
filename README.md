@@ -9,7 +9,7 @@
 <a href="https://github.com/CharanBot?tab=followers"><img src="https://img.shields.io/github/followers/CharanBot?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <p>
-  <h2>GITHUB TROPHIES</h2>
+  <h2>GITHUB TROPHIES🏆🏆🏆</h2>
   <hr>
 <p align="center">
 <img width="800" src="https://github-profile-trophy.vercel.app/?username=CharanBot&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh" />
